@@ -6,7 +6,7 @@
     "images": "^3.0.1",
     "ra-data-firebase-client": "^0.1.6",
     "react": "^16.7.0",
-    "react-admin": "^2.5.2",
+    "react-admin": "^3.19.12",
     "react-dom": "^16.7.0",
     "react-image-gallery": "^0.8.12",
     "react-image-slideshow": "^1.5.4",
